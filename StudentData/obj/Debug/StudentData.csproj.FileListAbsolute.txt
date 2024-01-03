@@ -1,0 +1,7 @@
+C:\Users\91807\Desktop\December\StudentData\StudentData\bin\Debug\StudentData.exe.config
+C:\Users\91807\Desktop\December\StudentData\StudentData\bin\Debug\StudentData.exe
+C:\Users\91807\Desktop\December\StudentData\StudentData\bin\Debug\StudentData.pdb
+C:\Users\91807\Desktop\December\StudentData\StudentData\obj\Debug\StudentData.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\December\StudentData\StudentData\obj\Debug\StudentData.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\December\StudentData\StudentData\obj\Debug\StudentData.exe
+C:\Users\91807\Desktop\December\StudentData\StudentData\obj\Debug\StudentData.pdb
